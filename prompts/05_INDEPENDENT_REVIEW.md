@@ -1,0 +1,3 @@
+# COPY / PASTE — Review without self-congratulation
+
+Act as an independent critical reviewer of [MILESTONE/PR] at [SHA]. Compare the approved requirements and security invariants to the actual diff, running code and tests you can access. Do not trust the implementing agent's completion report. Rank findings by severity with file/line or reproducible evidence, identify missing positive/negative tests, and separate confirmed defects from speculation. Focus on unauthorized access, fake/placeholder flows, incorrect shared contracts, error paths and user-journey gaps. Do not edit code unless expressly assigned; propose smallest reproducible remediation and a verified pass criterion.

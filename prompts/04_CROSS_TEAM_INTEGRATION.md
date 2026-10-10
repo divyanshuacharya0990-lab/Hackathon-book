@@ -1,0 +1,3 @@
+# COPY / PASTE — Contract reconciliation
+
+Integrate producer [OWNER/BRANCH/SHA] with consumer [OWNER/BRANCH/SHA] against approved contract [FILE+VERSION]. Identify exact interface differences (schema, auth, canonical encoding, field modulus, dates, signatures, error paths, replay). Run the same approved fixtures/golden vectors against both implementations and negative tests. Do not invent compatibility shims or rewrite the other owner's protocol unilaterally. Coordinate overlapping edits; make routine compatible repairs within the authorized objective. Escalate material contract/security/architecture changes to affected owners. Report actual test evidence, impacted files, migration/versioning proposal if needed, integration SHA and outstanding blockers.

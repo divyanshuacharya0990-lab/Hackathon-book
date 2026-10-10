@@ -1,0 +1,3 @@
+# COPY / PASTE — Agent is slow, confused, or rereading everything
+
+Stop and give a concise diagnostic checkpoint. Current assigned objective: [TASK]. List only (1) files actually changed, (2) executed tests and their outcomes, (3) actual blocker, (4) why prior investigation did not resolve it, (5) exact next smallest measurable action. Do not reexplain the entire master plan or rescan the full repository without identifying why it's necessary. Preserve current work. If the prompt/task was too broad, split it into the smallest coherent outcome and continue with focused files/tests. Maintain essential security and correctness. If context is degraded, prepare a verified handoff for a fresh session.

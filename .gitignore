@@ -1,0 +1,10 @@
+# Local configuration and credential material
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Local tooling/output; inspect tracked files separately
+node_modules/
+.DS_Store
+Thumbs.db

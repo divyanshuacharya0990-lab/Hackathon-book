@@ -1,0 +1,185 @@
+{
+  "excludes": [
+    "FILE_MANIFEST.json",
+    ".git/"
+  ],
+  "originalZipSha256": "601bc13e7905e40d4815a2a4adefa878fb8a6721e9eb58b7c5201a4227817e62",
+  "version": "1.1",
+  "files": [
+    {
+      "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c",
+      "bytes": 19,
+      "path": ".gitattributes"
+    },
+    {
+      "sha256": "a58f74bd1ab64575c6c9e2be059a970ff4a6716f0c41080665d8f0a3bd26fad2",
+      "bytes": 175,
+      "path": ".gitignore"
+    },
+    {
+      "sha256": "d8ceba9ea958f6fc6035ab16f9f5011b802af09d4f0d0fce395653ec81efa547",
+      "bytes": 3781,
+      "path": "AGENTS.md"
+    },
+    {
+      "sha256": "79746e204a0b2f55543768a327b729f98f1849c0b77490c063767684852cdc2d",
+      "bytes": 8388,
+      "path": "AUDIT.md"
+    },
+    {
+      "sha256": "c564242e708cc2981391d7f3463273eee379428f3135c6a794f7bf721b404821",
+      "bytes": 5524,
+      "path": "docs/AGENT_OPERATIONS.md"
+    },
+    {
+      "sha256": "fc44113d0b8cab2c545662486c5b92af15984a35f5d6e3102ebbe523bcfac280",
+      "bytes": 3063,
+      "path": "docs/PROMPT_ROUTER.md"
+    },
+    {
+      "sha256": "f3279211923409cc45fc563a5c501101795969d9b6b09cd5ae23474c6f07adb2",
+      "bytes": 3496,
+      "path": "docs/QUALITY_GATES.md"
+    },
+    {
+      "sha256": "f26433b8e833c8f5c8d1886f8acb25a9f94dbdc5e59b54f9368e5e9d5be6b3fd",
+      "bytes": 3677,
+      "path": "docs/SECURITY_AND_TRUTH.md"
+    },
+    {
+      "sha256": "f273f5b3d47263e615acfbc23678e6bc650df55d8a0e82fcb1f3d019a29cc7d9",
+      "bytes": 4124,
+      "path": "docs/START_HERE.md"
+    },
+    {
+      "sha256": "f99fb7e7e53360fa9137a4922849814f9b3e583a86d8ff491e58167f86d87f8a",
+      "bytes": 3902,
+      "path": "examples/GIGVAULT_RETROSPECTIVE.md"
+    },
+    {
+      "sha256": "a6698ce4f79c4478f5e8c26255770e2d154905e7ce7dccc8b7c95aa8a17daa09",
+      "bytes": 1313,
+      "path": "prompts/01_BOOTSTRAP.md"
+    },
+    {
+      "sha256": "46c2386344277f06a3f44c7498a22ea4c49c3662739a2226f9de660f082f53f3",
+      "bytes": 1038,
+      "path": "prompts/02_IMPLEMENT_FEATURE.md"
+    },
+    {
+      "sha256": "29ccec479b7e662eea55ac3a5e51d53127b078a549b717d188231adcb49bd025",
+      "bytes": 878,
+      "path": "prompts/03_DEBUG_ROOT_CAUSE.md"
+    },
+    {
+      "sha256": "452c542bd1734e6f2a32802235343dfd19ceae757a4340504f4c4050c95cdb4e",
+      "bytes": 766,
+      "path": "prompts/04_CROSS_TEAM_INTEGRATION.md"
+    },
+    {
+      "sha256": "b77b141c8a958f1802db286f567fc723bdaba633914759af78cf26adc1c91076",
+      "bytes": 689,
+      "path": "prompts/05_INDEPENDENT_REVIEW.md"
+    },
+    {
+      "sha256": "60e1b459dfffeb303bfce6bbd7d4628629bed9039e40432617d881e2ded9cdb8",
+      "bytes": 1366,
+      "path": "prompts/06_HANDOFF_AND_MIGRATION.md"
+    },
+    {
+      "sha256": "010a6d709b470dc4c5968437fedd4c72aecd9477f8b52e327817f0a0c3a71c60",
+      "bytes": 799,
+      "path": "prompts/07_PLAN_CONFLICT.md"
+    },
+    {
+      "sha256": "aa8e5862ea7432c8b2abb4abf2cbd83df630ffcfd565c4063a147dc0602688fb",
+      "bytes": 811,
+      "path": "prompts/08_END_TO_END_UI_CHECK.md"
+    },
+    {
+      "sha256": "3c87cb4ba5884228d103eba9473502d12b17c3fc23a5183f20318b31212b5222",
+      "bytes": 800,
+      "path": "prompts/09_SCOPE_FREEZE.md"
+    },
+    {
+      "sha256": "4171fde2967506c856a0753b7b866b561bd5a6a2a84b268934671cfedf18894a",
+      "bytes": 1100,
+      "path": "prompts/10_RELEASE_AND_DEMO.md"
+    },
+    {
+      "sha256": "7a5e41e3a5feaa709f0957ca1243bf7cc16df2f0a7a27da45e3f38f83430a776",
+      "bytes": 707,
+      "path": "prompts/11_RECOVER_AGENT.md"
+    },
+    {
+      "sha256": "f36f30b7659c1da2b82f94bceb2879c2a9af6105a2c803dbf76fe21d9b85431b",
+      "bytes": 973,
+      "path": "prompts/12_INITIAL_PROJECT_PLANNING.md"
+    },
+    {
+      "sha256": "9af7885f94fe8be493d425f824d51f11151bb72d3dcb012f417d7e101fc5d8d8",
+      "bytes": 839,
+      "path": "prompts/13_PROMPT_COACH.md"
+    },
+    {
+      "sha256": "7a5c0fa82018ec027b8f3705a191968f6945f1e95f418660cd44ffce7dcadc00",
+      "bytes": 4371,
+      "path": "README.md"
+    },
+    {
+      "sha256": "9d076e741f0d0a15d2732c188135a00eb29d37ac6748b5c26d7cf08847b2d93c",
+      "bytes": 4587,
+      "path": "scripts/verify-playbook.cjs"
+    },
+    {
+      "sha256": "140168dbe8a5abd774b8b323469d4c8ca8b54bd7fd64cfb6fa6cb3fa3b9cb3dc",
+      "bytes": 1424,
+      "path": "templates/CHECKPOINT.md"
+    },
+    {
+      "sha256": "5508f8a80bf1a065b37676f6abd2845420094ea97335719b9923acc26dba72bc",
+      "bytes": 1105,
+      "path": "templates/CONTRACT.md"
+    },
+    {
+      "sha256": "eb42e38fff550f069ed0f525cfa8a4a6f8704f6f709d0d49a2fc3051a9fadaea",
+      "bytes": 466,
+      "path": "templates/DECISION.md"
+    },
+    {
+      "sha256": "944b5f32d8c349b1072c3df40e06d5fd272f76d44b184023f902dc71bed70f19",
+      "bytes": 575,
+      "path": "templates/MILESTONE.md"
+    },
+    {
+      "sha256": "ce3f1374aec121bbe5193f44b8588d9a759f3d185d19258ce3041d2258a31f5a",
+      "bytes": 1014,
+      "path": "templates/OWNERSHIP.md"
+    },
+    {
+      "sha256": "b0171f01435d98546db2de9dccd3ae2d1ea940ca1fe304b5cae2bbdc25779af0",
+      "bytes": 1030,
+      "path": "templates/PROJECT_BRIEF.md"
+    },
+    {
+      "sha256": "a411c283bb457ab07bdfafd777729eca8ada435f3f4a22b0468cedc1850c161d",
+      "bytes": 1032,
+      "path": "templates/RELEASE_CHECKLIST.md"
+    },
+    {
+      "sha256": "76faa9ec6ab47675693a42c374e1adb0f8894651ef5a2849872b5580224d113c",
+      "bytes": 572,
+      "path": "templates/STATUS_REPORT.md"
+    },
+    {
+      "sha256": "451eccb7adc024a259d112c57557b37b04c38a38db7ab67361e60927a4b74857",
+      "bytes": 4557,
+      "path": "workflows/GIT_AND_INTEGRATION.md"
+    },
+    {
+      "sha256": "77ada1ac30d6327d8b437c66e605a63bb24913a5346c4a69e5a0c3e5da4892dc",
+      "bytes": 3071,
+      "path": "workflows/HACKATHON_RUNBOOK.md"
+    }
+  ]
+}
